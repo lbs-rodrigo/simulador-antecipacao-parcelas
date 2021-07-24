@@ -2,7 +2,7 @@
 
 Um repositorio para compartilhar os calculos realizados nas operações de empréstimo.
 
-Features em desenvolvimento:
+Features em desenvolvimento e finalizadas:
 
  - [x] API: Empréstimos com prestações fixas
  - [ ] API: Antecipação de parcelas
