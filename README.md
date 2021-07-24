@@ -4,8 +4,9 @@ Um repositorio para compartilhar os calculos realizados nas operações de empr�
 
 Features em desenvolvimento:
 
- - [ ] Empréstimos com prestações fixas
- - [ ] Antecipação de parcelas
+ - [x] API: Empréstimos com prestações fixas
+ - [ ] API: Antecipação de parcelas
+ - [ ] WEB: Simulador
 
 Fique a vontade para duvidas e sugestões!
 
@@ -52,3 +53,5 @@ https://www.bcb.gov.br/pre/normativos/busca/normativo.asp?tipo=res&ano=2007&nume
 https://www.bcb.gov.br/pre/normativos/busca/normativo.asp?tipo=res&ano=2006&numero=3401
 
 https://www.bcb.gov.br/pre/normativos/busca/normativo.asp?tipo=res&ano=1996&numero=2309
+
+https://receita.economia.gov.br/acesso-rapido/legislacao/legislacao-por-assunto/imposto-sobre-operacoes-de-credito-cambio-e-seguro-ou-relativas-a-titulos-ou-valores-mobiliarios-iof#decretos
