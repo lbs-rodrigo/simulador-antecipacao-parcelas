@@ -1,12 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using Microsoft.AspNetCore.Mvc;
+using Simulador.Calculos.Contract;
+using Simulador.Calculos.Core.ResponseBase;
 using System.Threading.Tasks;
 
 namespace Simulador.Calculos.Services
 {
-    class ParcelasFixasServices
+    public class ParcelasFixasServices : SingleResponse
     {
+        public async Task<IActionResult> Simular(PostParcelasFixasRequest request)
+        {
+            return SuccessResponse();
+        }
     }
 }

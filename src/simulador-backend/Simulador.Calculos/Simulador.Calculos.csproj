@@ -5,7 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Contract\" />
     <Folder Include="Core\Middleware\" />
   </ItemGroup>
 
