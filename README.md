@@ -2,10 +2,10 @@
 
 Um repositorio para compartilhar os calculos realizados nas operações de empréstimo.
 
-É possível simular as seguintes operações:
+Features em desenvolvimento:
 
- - [X] Empréstimos com prestações fixas
- - [X] Antecipação de parcelas
+ - [ ] Empréstimos com prestações fixas
+ - [ ] Antecipação de parcelas
 
 Fique a vontade para duvidas e sugestões!
 
