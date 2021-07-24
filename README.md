@@ -6,7 +6,8 @@ Features em desenvolvimento e concluídas:
 
  - [x] API: Empréstimos com prestações fixas
  - [ ] API: Antecipação de parcelas
- - [ ] WEB: Simulador
+ - [ ] WEB: Simulador de prestações fixas
+ - [ ] WEB: Simulador de antecipação de parcelas
 
 Fique a vontade para duvidas e sugestões!
 
