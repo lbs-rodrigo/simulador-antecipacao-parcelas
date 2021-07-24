@@ -24,8 +24,10 @@ O calculo é realizado pelo [Simulador Backend](/src/simulador-backend) e [Simul
 ## Execute via
 
 ### **Docker**
+Em desenvolvimento
 
 ### **Local**
+Em desenvolvimento
 
 -------------------
 
